@@ -1,0 +1,7 @@
+.movie {
+	display: flex;
+	align-items: center;
+	margin: 30px 0 80px 0;
+	color: #fcf0e1;
+	background: #5c5753;
+}

@@ -1,0 +1,24 @@
+.poster {
+	width: 200px;
+	height: auto;
+	padding: 0 20px 0 20px;
+}
+
+.content {
+	padding: 10px 20px;
+}
+
+.movie {
+	display: flex;
+	gap: 30px;
+	color: #000000;
+	background: rgb(221, 221, 221);
+	width: 470px;
+	text-align: left;
+}
+
+.title {
+	color: red;
+}
+
+
